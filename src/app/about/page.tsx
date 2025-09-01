@@ -89,7 +89,7 @@ const AboutPage = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-xl md:text-2xl text-blue-100 max-w-3xl mx-auto"
           >
-            We're on a mission to revolutionize online shopping by providing 
+            We are on a mission to revolutionize online shopping by providing 
             exceptional products, outstanding service, and unforgettable experiences.
           </motion.p>
         </div>
@@ -120,7 +120,7 @@ const AboutPage = () => {
                 This philosophy continues to guide every decision we make.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Today, we're proud to offer a curated selection of products across 
+                Today, we are proud to offer a curated selection of products across 
                 multiple categories, all while maintaining the personal touch and 
                 attention to detail that set us apart from day one.
               </p>

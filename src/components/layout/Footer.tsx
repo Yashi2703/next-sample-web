@@ -138,7 +138,7 @@ const Footer = () => {
               
               <p className="text-gray-400 leading-relaxed max-w-sm">
                 Your one-stop destination for quality products, exceptional service, 
-                and an amazing shopping experience. We're committed to bringing you 
+                and an amazing shopping experience. We are committed to bringing you 
                 the best deals and latest trends.
               </p>
 

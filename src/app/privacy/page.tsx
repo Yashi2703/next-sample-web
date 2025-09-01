@@ -134,7 +134,7 @@ const PrivacyPage = () => {
             </h2>
             <div className="prose prose-lg text-gray-600 space-y-4">
               <p>
-                At ShopHub ("we," "our," or "us"), we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website, use our services, or interact with us.
+                At ShopHub , we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website, use our services, or interact with us.
               </p>
               <p>
                 By using our services, you agree to the collection and use of information in accordance with this policy. If you do not agree with our policies and practices, please do not use our services.
@@ -305,7 +305,7 @@ const PrivacyPage = () => {
             className="max-w-4xl mx-auto"
           >
             <h2 className="text-3xl font-bold text-gray-900 mb-6">
-              Children's Privacy
+              Childrens Privacy
             </h2>
             <div className="prose prose-lg text-gray-600 space-y-4">
               <p>
@@ -359,7 +359,7 @@ const PrivacyPage = () => {
             </h2>
             <div className="prose prose-lg text-gray-600 space-y-4">
               <p>
-                We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+                We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the Last Updated date.
               </p>
               <p>
                 We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information. Your continued use of our services after any changes constitutes acceptance of the updated Privacy Policy.

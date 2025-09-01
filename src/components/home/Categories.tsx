@@ -116,7 +116,7 @@ const Categories = () => {
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Explore our wide range of products organized into convenient categories. 
-            Find exactly what you're looking for with ease.
+            Find exactly what you are looking for with ease.
           </p>
         </motion.div>
 
